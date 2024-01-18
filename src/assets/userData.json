@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "firstName": "saishyam",
+      "lastName": "sai",
+      "email": "sai@gmail.com",
+      "phone": "1236547890",
+      "company": "sam",
+      "dob": "10000-10-10",
+      "gender": "",
+      "password": "sa",
+      "confirmPassword": "sa",
+      "id": "aa34"
+    },
+    {
+      "firstName": "sheetal",
+      "lastName": "bendre",
+      "email": "sheeta",
+      "phone": "ewe",
+      "company": "wewe",
+      "dob": "2024-01-05",
+      "gender": "",
+      "password": "ewed",
+      "confirmPassword": "ewd",
+      "id": "e3c9"
+    }
+  ]
+}
