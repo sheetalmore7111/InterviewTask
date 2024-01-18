@@ -1,28 +1,40 @@
 {
   "user": [
     {
-      "firstName": "saishyam",
-      "lastName": "sai",
-      "email": "sai@gmail.com",
-      "phone": "1236547890",
-      "company": "sam",
-      "dob": "10000-10-10",
-      "gender": "",
-      "password": "sa",
-      "confirmPassword": "sa",
+      "firstName": "Komal",
+      "lastName": "beloshe",
+      "email": "komal@gmail.com",
+      "phone": "1234567890",
+      "company": "ci",
+      "dob": "2000-10-07",
+      "gender": null,
+      "password": "sam",
+      "confirmPassword": "sam",
       "id": "aa34"
     },
     {
       "firstName": "sheetal",
       "lastName": "bendre",
-      "email": "sheeta",
-      "phone": "ewe",
-      "company": "wewe",
+      "email": "sheetalmore7111@gmail.com",
+      "phone": "8108476360",
+      "company": "ci",
       "dob": "2024-01-05",
       "gender": "",
       "password": "ewed",
       "confirmPassword": "ewd",
       "id": "e3c9"
+    },
+    {
+      "id": "640b",
+      "firstName": "nilima",
+      "lastName": "bendre",
+      "email": "nilima@gmail.com",
+      "phone": "1234567890",
+      "company": "ci",
+      "dob": "2024-01-18",
+      "gender": null,
+      "password": "sai",
+      "confirmPassword": "sai"
     }
   ]
 }

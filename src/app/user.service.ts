@@ -5,7 +5,10 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class UserService {
-  domain:any = 'http://localhost:3000/'
+
+  // domain:any = 'http://localhost:3000/'
+  domain:any = 'https://sheetalmore7111.github.io/IVTASK-RraectForm/'
+  
   constructor(private http:HttpClient) { }
 
   getAllUsers(){
